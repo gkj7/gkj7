@@ -66,8 +66,7 @@
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=python,cpp,java&theme=dark" alt="Python, C++ and Java">
-<br>
-<img src="https://img.shields.io/badge/SQL-Query%20Language-967BB6?style=for-the-badge&labelColor=211B2B" alt="SQL">
+
 
 <br><br>
 
