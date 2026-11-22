@@ -1,234 +1,164 @@
-<!-- ========================================================= -->
-<!--                    PROFILE README                         -->
-<!--              Replace all placeholders with your details   -->
-<!-- ========================================================= -->
+<!--
+  GOKUL K J — GitHub Profile README
+  Repository: https://github.com/gkj7/gkj7
 
-<!-- Responsive Banner -->
+  Keep the `art/` directory in the repository root.
+  The supplied light/dark banner files are used without modification.
+-->
+
+<!-- Custom responsive banner supplied by Gokul -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B1530,50:1D3B72,100:699BFF&height=220&section=header&text=Welcome%20to%20my%20profile&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:BBCFF8,50:93B2EF,100:699BFF&height=220&section=header&text=Welcome%20to%20my%20profile&fontSize=42&fontColor=0B1530&fontAlignY=38&animation=fadeIn"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1530,50:1D3B72,100:699BFF&height=220&section=header&text=Welcome%20to%20my%20profile&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Profile Banner"/>
+  <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="art/header-light.png">
+  <img alt="Gokul K J — Cybersecurity Enthusiast" src="art/header-light.png" width="100%">
 </picture>
 
-<!-- Main Introduction -->
 <div align="center">
 
-# GOKUL K J
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=B9A5DC&center=true&vCenter=true&width=720&lines=Cybersecurity+Enthusiast;Offensive+%26+Defensive+Security;Learner+for+Life;Break%2C+Fix%2C+Repeat." alt="Typing introduction" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=93B2EF&center=true&vCenter=true&width=650&lines=Hey+there!+%F0%9F%91%8B;I'm+%5BYOUR_NAME%5D;%5BYOUR_ROLE%5D;%5BYOUR_INTERESTS%5D;Always+Learning.+Always+Building." alt="Typing SVG"/>
+<br>
 
-<br/>
-
-<a href="https://github.com/[YOUR_USERNAME]">
-  <img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?style=for-the-badge&logo=github&label=FOLLOWERS&color=699BFF&labelColor=0B1530" alt="GitHub Followers"/>
+<a href="https://github.com/gkj7">
+  <img src="https://img.shields.io/github/followers/gkj7?style=for-the-badge&logo=github&label=FOLLOWERS&color=967BB6&labelColor=211B2B" alt="GitHub followers">
 </a>
-<a href="https://github.com/[YOUR_USERNAME]?tab=repositories">
-  <img src="https://img.shields.io/github/stars/[YOUR_USERNAME]?style=for-the-badge&logo=github&label=STARS&color=93B2EF&labelColor=0B1530" alt="GitHub Stars"/>
+<a href="https://github.com/gkj7/gkj7">
+  <img src="https://img.shields.io/github/stars/gkj7/gkj7?style=for-the-badge&logo=github&label=PROFILE%20REPO%20STARS&color=B9A5DC&labelColor=211B2B" alt="Profile repository stars">
 </a>
-<img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&style=for-the-badge&color=BBCFF8&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=gkj7&style=for-the-badge&color=71558F&label=PROFILE+VIEWS" alt="Profile views">
 
-<br/><br/>
+<br><br>
 
-*Building ideas into reality, one line of code at a time.*
+**Status: Secure** &nbsp;·&nbsp; **Break, Fix, Repeat.**
 
 </div>
 
 ---
 
-<!-- About Me -->
 <h2 align="center">✦ ABOUT ME ✦</h2>
 
 <table>
-<tr>
-<td width="65%" valign="middle">
-
-### Hello, World! 👋
-
-I'm **[YOUR_NAME]**, a passionate **[YOUR_ROLE / PROFESSION]** from **[YOUR_LOCATION]**.
-
-I'm interested in exploring technology, solving problems, and creating meaningful digital experiences.
-
-- 🔭 Currently working on **[CURRENT_PROJECT]**
-- 🌱 Currently learning **[CURRENTLY_LEARNING]**
-- 💡 Interested in **[YOUR_INTERESTS]**
-- 🎯 Working towards **[YOUR_GOAL]**
-- 🤝 Open to collaborations on **[COLLABORATION_INTERESTS]**
-- ⚡ Fun fact: **[SOMETHING_INTERESTING_ABOUT_YOU]**
-
-</td>
-<td width="35%" align="center" valign="middle">
-
-<img src="https://github.com/[YOUR_USERNAME]/[YOUR_USERNAME]/blob/main/assets/profile.gif" width="100%" alt="Profile Illustration"/>
-
-</td>
-</tr>
+  <tr>
+    <td width="65%" valign="middle">
+      <h3>Hey, I'm Gokul 👋</h3>
+      <p>I'm a cybersecurity enthusiast from Kerala, India, interested in understanding how systems work, how they fail, and how to make them more secure.</p>
+      <ul>
+        <li>🔐 Exploring <strong>offensive and defensive security</strong></li>
+        <li>🌱 Currently learning and growing in <strong>cybersecurity</strong></li>
+        <li>🧭 Interested in <strong>ethical hacking, cloud security, and Linux</strong></li>
+        <li>🎯 Goal: <strong>Break into the cybersecurity field</strong></li>
+        <li>🤝 Open to <strong>CTFs and hackathons</strong></li>
+        <li>📚 Personal motto: <strong>Learner for life</strong></li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="art/profile-avatar.png" width="190" alt="Cybersecurity character from Gokul's custom banner">
+    </td>
+  </tr>
 </table>
 
 ---
 
-<!-- Tech Stack -->
 <h2 align="center">✦ TECH STACK ✦</h2>
 
-<p align="center">
-  <b>Languages</b>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,html,css&theme=dark" alt="Programming Languages"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Frameworks & Libraries</b>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark" alt="Frameworks"/>
-</p>
+**Languages**
 
-<p align="center">
-  <b>Tools & Platforms</b>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,figma,postman&theme=dark" alt="Tools"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java&theme=dark" alt="Python, C++ and Java">
+<br>
+<img src="https://img.shields.io/badge/SQL-Query%20Language-967BB6?style=for-the-badge&labelColor=211B2B" alt="SQL">
 
-<p align="center">
-  <b>Databases & Cloud</b>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,supabase,aws&theme=dark" alt="Databases and Cloud"/>
-</p>
+<br><br>
 
-<p align="center">
-  <sub>Replace these icons with technologies you actually use.</sub>
-</p>
+**Systems & Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=linux,windows,git,github,vscode&theme=dark" alt="Linux, Windows, Git, GitHub and VS Code">
+
+<br><br>
+
+**Security Toolkit & Learning Platforms**
+
+<a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-Discovery-967BB6?style=for-the-badge&labelColor=211B2B" alt="Nmap"></a>
+<a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-Traffic%20Analysis-B9A5DC?style=for-the-badge&labelColor=211B2B" alt="Wireshark"></a>
+<a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-967BB6?style=for-the-badge&labelColor=211B2B" alt="Burp Suite"></a>
+<a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-Pen%20Testing-71558F?style=for-the-badge&labelColor=211B2B" alt="Metasploit"></a>
+<a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali%20Linux-OS-B9A5DC?style=for-the-badge&labelColor=211B2B" alt="Kali Linux"></a>
+<a href="https://www.openwall.com/john/"><img src="https://img.shields.io/badge/John%20the%20Ripper-Password%20Auditing-967BB6?style=for-the-badge&labelColor=211B2B" alt="John the Ripper"></a>
+<a href="https://github.com/vanhauser-thc/thc-hydra"><img src="https://img.shields.io/badge/Hydra-Authentication%20Testing-71558F?style=for-the-badge&labelColor=211B2B" alt="Hydra"></a>
+<a href="https://github.com/OJ/gobuster"><img src="https://img.shields.io/badge/Gobuster-Content%20Discovery-B9A5DC?style=for-the-badge&labelColor=211B2B" alt="Gobuster"></a>
+
+<br><br>
+
+<a href="https://tryhackme.com/p/goku.1"><img src="https://img.shields.io/badge/TryHackMe-goku.1-967BB6?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=211B2B" alt="TryHackMe"></a>
+<a href="https://profile.hackthebox.com/profile/019eb5e1-4410-71a4-a4c0-be0ac0924869"><img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-71558F?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=211B2B" alt="Hack The Box"></a>
+
+</div>
 
 ---
 
-<!-- GitHub Statistics -->
 <h2 align="center">✦ GITHUB STATISTICS ✦</h2>
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&hide_border=true&bg_color=0B1530&title_color=93B2EF&icon_color=699BFF&text_color=BBCFF8&ring_color=699BFF&include_all_commits=true" alt="GitHub Statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gkj7&show_icons=true&hide_border=true&include_all_commits=true&bg_color=211B2B&title_color=B9A5DC&icon_color=967BB6&text_color=E7DFF0&ring_color=967BB6" alt="Gokul's GitHub statistics">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkj7&layout=compact&hide_border=true&langs_count=6&bg_color=211B2B&title_color=B9A5DC&text_color=E7DFF0" alt="Most used languages">
 
-<!-- Top Languages -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&hide_border=true&bg_color=0B1530&title_color=93B2EF&text_color=BBCFF8&langs_count=8" alt="Top Languages"/>
+<br><br>
 
-<br/><br/>
+<img width="80%" src="https://streak-stats.demolab.com?user=gkj7&hide_border=true&background=211B2B&ring=B9A5DC&fire=967BB6&currStreakLabel=B9A5DC&sideLabels=B9A5DC&dates=AA9BB9&currStreakNum=F4EFFA&sideNums=F4EFFA" alt="GitHub contribution streak">
 
-<!-- GitHub Streak -->
-<img width="85%" src="https://streak-stats.demolab.com?user=[YOUR_USERNAME]&theme=transparent&hide_border=true&background=0B1530&ring=699BFF&fire=93B2EF&currStreakLabel=BBCFF8&sideLabels=93B2EF&dates=BBCFF8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+<br><br>
 
-<br/><br/>
-
-<!-- Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&bg_color=0B1530&color=BBCFF8&line=699BFF&point=93B2EF&area=true&area_color=1D3B72&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Activity Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gkj7&bg_color=211B2B&color=E7DFF0&line=967BB6&point=B9A5DC&area=true&area_color=71558F&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub activity graph">
 
 </div>
 
 ---
 
-<!-- Contribution Snake -->
 <h2 align="center">✦ CONTRIBUTION SNAKE ✦</h2>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%"/>
-
+  <img src="https://raw.githubusercontent.com/gkj7/gkj7/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake in dark theme" width="100%">
 </div>
 
 <!--
-GITHUB ACTION SETUP:
+SNAKE WORKFLOW SETUP
 
-Create the following file in your profile repository:
-
+The workflow file is included at:
 .github/workflows/snake.yml
 
-Add this workflow:
+After pushing it to the `gkj7` profile repository:
+1. Open the repository's Actions tab.
+2. Enable GitHub Actions if prompted.
+3. Run the "Generate Contribution Snake" workflow once using Run workflow.
+4. The workflow publishes the generated SVG to the `output` branch.
+5. The image above will then load from that branch.
 
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Deploy to Output Branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-After adding the workflow:
-1. Go to your repository's Actions tab.
-2. Enable GitHub Actions if necessary.
-3. Run "Generate Contribution Snake" manually.
-4. Allow the workflow to create the output branch.
-5. Your snake animation will appear above.
+If publishing fails, check Settings > Actions > General > Workflow permissions
+and allow the workflow to have read and write permissions.
 -->
 
 ---
 
-<!-- Connect -->
-<h2 align="center">✦ LET'S CONNECT ✦</h2>
-
-<p align="center">
-  <i>Have an interesting project, opportunity, or just want to say hello?</i>
-  <br/>
-  <b>My inbox is always open!</b>
-</p>
+<h2 align="center">✦ CONNECT WITH ME ✦</h2>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_USERNAME]/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-699BFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1530" alt="LinkedIn"/>
-</a>
+<a href="https://www.linkedin.com/in/gokul-kj-0b0a68334/"><img src="https://img.shields.io/badge/LinkedIn-Connect-967BB6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=211B2B" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/gokulkj21/"><img src="https://img.shields.io/badge/Instagram-Follow-B9A5DC?style=for-the-badge&logo=instagram&logoColor=white&labelColor=211B2B" alt="Instagram"></a>
+<a href="https://tryhackme.com/p/goku.1"><img src="https://img.shields.io/badge/TryHackMe-Profile-967BB6?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=211B2B" alt="TryHackMe"></a>
+<a href="https://profile.hackthebox.com/profile/019eb5e1-4410-71a4-a4c0-be0ac0924869"><img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-71558F?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=211B2B" alt="Hack The Box"></a>
+<a href="mailto:gkj789878@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-B9A5DC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=211B2B" alt="Email"></a>
 
-<a href="https://www.instagram.com/[YOUR_INSTAGRAM_USERNAME]/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-Follow-93B2EF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0B1530" alt="Instagram"/>
-</a>
+<br><br>
 
-<a href="https://tryhackme.com/p/[YOUR_TRYHACKME_USERNAME]" target="_blank">
-  <img src="https://img.shields.io/badge/TryHackMe-Profile-BBCFF8?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0B1530" alt="TryHackMe"/>
-</a>
-
-<a href="mailto:[YOUR_EMAIL]">
-  <img src="https://img.shields.io/badge/Email-Contact-699BFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1530" alt="Email"/>
-</a>
+*Always learning. Always exploring. Always securing.*
 
 </div>
 
-<br/>
+<br>
 
----
-
-<!-- Footer -->
 <div align="center">
-
-### ✧ Thanks for visiting my profile! ✧
-
-*Code. Create. Learn. Repeat.*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1530,40:142D59,75:1D3B72,100:699BFF&height=150&section=footer&animation=fadeIn" width="100%" alt="Dark Blue Waving Footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:211B2B,45:71558F,75:967BB6,100:B9A5DC&height=150&section=footer" width="100%" alt="Lavender gradient wave footer">
 </div>
-
-<!-- ========================================================= -->
-<!--                    END OF README                          -->
-<!-- ========================================================= -->
