@@ -100,45 +100,19 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gkj7&show_icons=true&hide_border=true&include_all_commits=true&bg_color=211B2B&title_color=B9A5DC&icon_color=967BB6&text_color=E7DFF0&ring_color=967BB6" alt="Gokul's GitHub statistics">
+<img width="49%" src="https://streak-stats.demolab.com?user=gkj7&hide_border=true&background=211B2B&ring=B9A5DC&fire=967BB6&currStreakLabel=B9A5DC&sideLabels=B9A5DC&dates=AA9BB9&currStreakNum=F4EFFA&sideNums=F4EFFA" alt="GitHub contribution streak">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkj7&layout=compact&hide_border=true&langs_count=6&bg_color=211B2B&title_color=B9A5DC&text_color=E7DFF0" alt="Most used languages">
 
-<br><br>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=gkj7&hide_border=true&background=211B2B&ring=B9A5DC&fire=967BB6&currStreakLabel=B9A5DC&sideLabels=B9A5DC&dates=AA9BB9&currStreakNum=F4EFFA&sideNums=F4EFFA" alt="GitHub contribution streak">
 
 <br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gkj7&bg_color=211B2B&color=E7DFF0&line=967BB6&point=B9A5DC&area=true&area_color=71558F&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub activity graph">
+
 
 </div>
 
 ---
 
-<h2 align="center">✦ CONTRIBUTION SNAKE ✦</h2>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gkj7/gkj7/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake in dark theme" width="100%">
-</div>
-
-<!--
-SNAKE WORKFLOW SETUP
-
-The workflow file is included at:
-.github/workflows/snake.yml
-
-After pushing it to the `gkj7` profile repository:
-1. Open the repository's Actions tab.
-2. Enable GitHub Actions if prompted.
-3. Run the "Generate Contribution Snake" workflow once using Run workflow.
-4. The workflow publishes the generated SVG to the `output` branch.
-5. The image above will then load from that branch.
-
-If publishing fails, check Settings > Actions > General > Workflow permissions
-and allow the workflow to have read and write permissions.
--->
-
----
 
 <h2 align="center">✦ CONNECT WITH ME ✦</h2>
 
