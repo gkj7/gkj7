@@ -1,4 +1,7 @@
-# Hi, I'm Gokul K J 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+  <img alt="Gokul K J" src="art/header-light.png">
+</picture>
 
 B.Tech Computer Science (Cybersecurity) | St. Joseph's College of Engineering & Technology, Pala
 
