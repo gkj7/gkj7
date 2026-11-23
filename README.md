@@ -3,7 +3,7 @@
   Repository: https://github.com/gkj7/gkj7
 
   Keep the `art/` directory in the repository root.
-  The supplied light/dark banner files are used without modification.
+  The supplied light/dark banner files are used without modification. (contribution snake : optional)
 -->
 
 <!-- Custom responsive banner supplied by Gokul -->
